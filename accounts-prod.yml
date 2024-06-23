@@ -2,7 +2,7 @@ build:
   version: "2.0-prod-accounts-File"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs "
+  message: "Welcome to EazyBank accounts related local APIs rabbit mq"
   contactDetails:
     name: "John Doe - Project Manager"
     email: "{cipher}037b8f8103e7fff67a6a0c38f69cd46508702e2d3b7f3e59db2654154d37a68b06ae3c653433bace20ebd9edb3911630"
