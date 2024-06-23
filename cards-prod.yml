@@ -1,8 +1,8 @@
 build:
-  version: "2.0-prod"
+  version: "2.0-prod-rabbit"
 
 cards:
-  message: "Welcome to EazyBank cards related local APIs "
+  message: "Welcome to EazyBank cards related local APIs rabbitmq"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
