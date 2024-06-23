@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related local APIs "
   contactDetails:
-    name: "John Doe - Senior Developer"
+    name: "John Doe - Senior Architect"
     email: "{cipher}037b8f8103e7fff67a6a0c38f69cd46508702e2d3b7f3e59db2654154d37a68b06ae3c653433bace20ebd9edb3911630"
   onCallSupport:
     - (555) 555-1234
